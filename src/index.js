@@ -8,7 +8,6 @@ const StyledPdiv = styled.div`
     height: max-content;
     background: #c11ce4;
 `
-
 ReactDOM.render(
   <StyledPdiv>
     <App/>
